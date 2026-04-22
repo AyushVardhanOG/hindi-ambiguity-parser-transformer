@@ -1,2 +1,4 @@
-# hindi-ambiguity-parser-transformer
-transformer-based NLP project that detects ambiguous Hindi sentences and generates multiple interpretations using Google’s mT5 model
+# IBM-Exploratory-Data-Analysis-for-Machine-Learning
+This is the solution to the peer graded assignment at the end of the course
+
+The course required us to do complete EDA of any dataset and then do feature engineering on it.
